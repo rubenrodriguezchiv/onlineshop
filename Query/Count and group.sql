@@ -1,0 +1,1 @@
+select iduser, codproduct, count(quality) as countitem from cart where iduser=28 group by codproduct

@@ -1,0 +1,1 @@
+SELECT iduser, codproduct, image, name, um, price, SUM(quality) AS countitem FROM (SELECT * FROM cart INNER JOIN products ON cart.codproduct=products.cod) AS resumecart WHERE resumecart.iduser=28 GROUP BY resumecart.codproduct

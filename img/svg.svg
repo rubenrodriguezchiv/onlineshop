@@ -1,0 +1,16 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="147.50001" rx="147.49997" id="svg_5" cy="150.49999" cx="149.99998" stroke-width="0" fill="#c0cecc" stroke="#426373"/>
+  <line opacity="0.8" fill="none" stroke-width="10" x1="56.41991" y1="90.35152" x2="69.90491" y2="177.97579" id="svg_4" stroke-dasharray="5,2,2,2,2,2" stroke="#1A333F"/>
+  <text fill="#416063" stroke-width="0" x="181.41791" y="118.44482" id="svg_1" font-size="24" font-family="'Anton'" text-anchor="start" xml:space="preserve" font-weight="normal" font-style="normal" transform="matrix(-9.90074 -0.0739299 0.0458217 -6.52232 2047.25 865.473)" stroke="#426373">@</text>
+  <line opacity="0.8" fill="none" x1="44.63988" y1="81.86093" x2="54.62302" y2="89.30895" id="svg_3" stroke-width="10" stroke-dasharray="5,2,2,2,2,2" stroke="#0E353B"/>
+  <ellipse fill="#DDDDDD" cx="81.72121" cy="229.99772" id="svg_7" rx="31.006" ry="32.3831" stroke-width="20" stroke="#33666C"/>
+  <ellipse fill="#DDDDDD" cx="217.26174" cy="229.99772" id="svg_17" rx="31.006" ry="32.3831" stroke-width="20" stroke="#33666C"/>
+  <g id="svg_6" stroke="null">
+   <ellipse transform="matrix(0.761763 -0.0112884 0.00947767 0.907304 5.30816 12.0848)" fill="#426373" cx="46.6929" cy="70.01199" id="svg_2" rx="13.63156" ry="11.85152" stroke="null"/>
+   <text fill="#132e72" x="10.18788" y="87.06918" id="svg_10" stroke-width="0" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve" font-weight="normal" font-style="normal" transform="matrix(0.572057 0 0 0.575799 31.0963 29.0214)" stroke="#273141">X</text>
+  </g>
+ </g>
+
+</svg>
